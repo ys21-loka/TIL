@@ -1,0 +1,42 @@
+[33mcommit 61008c6fcf15e07fa658d541f160c9428288b4b3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5be329f 6bdcefe
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 15:40:43 2019 +0900
+
+    Merge branch 'master' of https://github.com/ys21-loka/til
+
+[33mcommit 6bdcefe185586e8ac0dd07e669ff4aaaa58130c9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 15:38:28 2019 +0900
+
+    Add python to README
+
+[33mcommit 5be329f34963fa5d15fd4a046e9b258dd02cb36b[m
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 15:35:27 2019 +0900
+
+    git 원격저장소 활용 추가
+
+[33mcommit 6de6db238b68046c64c290fe8a0503e21b5c6ce6[m
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 15:23:55 2019 +0900
+
+    add README,md
+
+[33mcommit b8918acdf44c81d224f14a76404287c3f66dfeb0[m
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 15:07:41 2019 +0900
+
+    마크다운 및 git 정리 완성
+
+[33mcommit 6f6962184a9c1c6e859a64d9deed8e67ee6db63f[m
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 14:44:31 2019 +0900
+
+    마크다운 및 git 정리
+
+[33mcommit 52dca269502f11c6575948c6a31fee3a60e117d9[m
+Author: ys21-loka <tlgus1995@gmail.com>
+Date:   Thu Dec 26 14:37:25 2019 +0900
+
+    마크다운 및 git 정리
