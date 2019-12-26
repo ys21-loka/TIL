@@ -7,5 +7,6 @@
 * [git 기초](./git.md)
 * [마크다운 활용](./markdown.md)
 * [push-pull 오류 해결](./PUSHPULLERROR.md)
+* [gitignore 활용](./gitignore.md)
 
 ### 2. Python
