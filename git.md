@@ -4,6 +4,8 @@
 >
 > 소스코드의 버전 및 이력을 관리할 수 있다.
 
+
+
 ## 준비하기
 
 윈도우에서 git을 활용하기 위해서 [git bash](https://gitforwindows.org)를 설치한다.
@@ -17,7 +19,11 @@ $ git config --global user.name ys21-loka
 $ git config --global user.email tlgus1995@gmail.com
 ```
 
+
+
 ## 로컬 저장소(repository) 활용하기
+
+
 
 ### 1. 저장소 초기화
 
@@ -28,6 +34,8 @@ Initialized empty Git repository in C:/Users/student/Desktop/TIL/.git/
 
 * `.git` 폴더가 생성되며, 여기에 git과 관련된 모든 정보가 저장된다.
 * git bashdp `(master)` 라고 표현된느데, 이는 `master` 브랜치에 있다는 뜻이다.
+
+
 
 ### 2. `add`
 
@@ -77,6 +85,8 @@ $ git add . # 현재 디렉토리
           markdown.md
   ```
 
+
+
 ### 3. `commit`
 
   `commit` 은 이력을 확정짓는 명령어로, 해당 시점의 스냅샷을 기록한다.
@@ -109,15 +119,19 @@ $ git add . # 현재 디렉토리
 
   `commit`은 해시코드를 바탕으로 구분된다.
 
-  
+
 
   ## 원격 저장소 (remote repository) 활용하기
 
   원격 저장소 기능을 제공하는 다양한 서비스 중에 github을 기준으로 설명한다.
 
+
+
   ### 0. 준비사항
 
   * Github에 repository 생성
+
+
 
   ### 1. 원격 저장소 등록
 
@@ -135,6 +149,8 @@ $ git add . # 현재 디렉토리
     origin  https://github.com/ys21-loka/til.git (push)
     ```
 
+
+
 ### 2. `push` - 원격저장소 업로드
 
 ```bash
@@ -150,6 +166,8 @@ Everything up-to-date
 
 `status`, `log`, `remote -v`
 
+
+
 ### 3.  `pull`
 
 ```bash
@@ -158,7 +176,9 @@ $ git pull origin master
 
 원격 저장소의 변경 사항을 받아온다.
 
-## 4. `clone`
+
+
+### 4. `clone`
 
 ```bash
 $ git clone 깃허브url
