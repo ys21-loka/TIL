@@ -12,3 +12,4 @@
 
 ### 2. Python
 
++ [web crawler study](./12.27 web crawler text.md)
